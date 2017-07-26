@@ -24,7 +24,7 @@ Download the Docker toolbox from the below link and follow the steps in order to
 
 [Docker toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
 
-For easy installation, do not override any step during the installation. Once the installation is done open `Docker quick start terminal` and run `docker run hello-world`. This step will prompt a hello world on your console, which means you have docker installed.
+For easy installation, do not override any step during the installation, let it be in its defaults. Once the installation is done open `Docker quick start terminal` and run `docker run hello-world`. This step will prompt a hello world on your console, which means you have docker installed.
 
 
 ---
