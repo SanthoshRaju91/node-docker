@@ -16,7 +16,7 @@ This should be fairly simple just like Windows 10. Open the below link and the d
 
 [Docker for Mac](https://docs.docker.com/docker-for-mac/install/#download-docker-for-mac)
 
-### For Windows 8 or former versions (This will be same for Mac OS).
+### For Windows 8 or former versions (This will be same for older versions of Mac).
 
 This will be slightly different for Windows 8 users, as you would be downloading an additional toolbox called Docker Toolbox. Reason being is that, Docker excepts your operating system to meet its minimal requirements, if not, then you be forced to take this route.
 
