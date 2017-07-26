@@ -20,7 +20,11 @@ This should be fairly simple just like Windows 10. Open the below link and the d
 
 This will be slightly different for Windows 8 users, as you would be downloading an additional toolbox called Docker Toolbox. Reason being is that, Docker excepts your operating system to meet its minimal requirements, if not, then you be forced to take this route.
 
-Download the Docker toolbox from the below link and follow the steps in order to install them. For easy installation, do not override any step during the installation. Once the installation is done open `Docker quick start terminal` and run `docker run hello-world`. This step will prompt a hello world on your console, which means you have docker installed.
+Download the Docker toolbox from the below link and follow the steps in order to install them. 
+
+[Docker toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
+
+For easy installation, do not override any step during the installation. Once the installation is done open `Docker quick start terminal` and run `docker run hello-world`. This step will prompt a hello world on your console, which means you have docker installed.
 
 
 ---
