@@ -23,6 +23,8 @@ This will be slightly different for Windows 8 users, as you would be downloading
 Download the Docker toolbox from the below link and follow the steps in order to install them. For easy installation, do not override any step during the installation. Once the installation is done open `Docker quick start terminal` and run `docker run hello-world`. This step will prompt a hello world on your console, which means you have docker installed.
 
 
+---
+
 After your docker installation. Please follow the below steps to have the project setup on your machine.
 
 1. Clone this repository to your workspace / desired location.
