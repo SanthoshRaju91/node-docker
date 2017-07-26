@@ -51,7 +51,7 @@ services:
       - "27017:27017"
 `
 
-Edit the <your-app-location> with your project location, please specify absolute path of your project, and save the file.
+Edit the `<your-app-location>` with your project location (eg: /c/Users/raju/workspace/node-docker/app), please specify absolute path of your project, and save the file.
 
 Now run the below command.
 
