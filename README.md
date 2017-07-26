@@ -12,7 +12,7 @@ This should be simple enough to have the docker installed on a Windows 10 machin
 
 ### For Mac users.
 
-This should be fairly simple. Open the below link and the download the stable version of Docker and follow the steps and you be ready to go.
+This should be fairly simple just like Windows 10. Open the below link and the download the stable version of Docker and follow the steps and you be ready to go.
 
 [Docker for Mac](https://docs.docker.com/docker-for-mac/install/#download-docker-for-mac)
 
